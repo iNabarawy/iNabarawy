@@ -1,98 +1,167 @@
-# 📄 Profile Summary
+# Ahmed Nabarawy
 
-**iOS Engineering Leader** with 15+ years of experience building secure, scalable mobile apps from the ground up. Delivered over 25 native iOS apps, including greenfield enterprise and consumer-facing products. Proven expertise in iOS architecture, encryption, and full-stack mobile development.  
-Currently leading iOS engineering at JPMorgan Chase in Glasgow, UK.  
-✅ Open to relocation for impactful, high-autonomy roles.
+## VP Mobile Engineering | iOS Engineering Leader | AI-Enabled Software Engineering
 
----
+Engineering leader with **17+ years of experience** building secure, scalable mobile applications and leading engineering teams across enterprise and consumer products. Delivered 25+ native iOS applications, combining deep technical expertise in Swift, mobile architecture, security engineering, and full-stack development with hands-on engineering leadership.
 
-## 🛠 iOS & Technical Skills
+Currently **VP Mobile Engineering at JPMorgan Chase & Co.**, leading mobile engineering initiatives focused on engineering excellence, scalable architecture, secure software delivery, and team development.
 
-**Languages & Frameworks:**  
-Swift 6, Objective-C, iOS SDK, UIKit, Core Data, Combine
+Interested in the intersection of **mobile engineering, AI-assisted software development, developer productivity, and engineering leadership**.
 
-**Architecture & Patterns:**  
-MVVM, VIPER, Modular Architecture, Clean Architecture
-
-**Networking & Security:**  
-REST APIs, Delta Sync, Certificate Pinning, Custom Encryption Frameworks
-
-**Tooling & CI/CD:**  
-Xcode, Git, Bitbucket, Jenkins, SonarQube, JIRA, Agile/Scrum
-
-**Testing & Automation:**  
-XCTest, UI Testing, TDD, Performance Benchmarking
-
-**Deployment:**  
-App Store, Enterprise Deployment
+Open to relocation for impactful, high-autonomy leadership opportunities.
 
 ---
 
-## 👨‍💼 Professional Experience
+## Technical Expertise
 
-### **Senior Mobile Software Engineering Tech Lead**  
-**JPMorgan Chase & Co., UK**  
-_March 2023 – Present_
-- Leading JPMorgan Research Mobile development using modern Swift paradigms.
-- Architected a modular platform with enterprise-level encryption and secure data handling.
-- Collaborated with stakeholders to ensure Agile feature delivery.
+### iOS & Mobile Engineering
+- Swift 6, Objective-C, iOS SDK, UIKit, Core Data, Combine
+- Modern Swift paradigms and modular application architecture
+- MVVM, VIPER, Clean Architecture
+- Native iOS application development and platform integration
+- App Intents, Siri integration, and Apple ecosystem technologies
 
-### **Senior Software Engineer (iOS)**  
-**Skyscanner LLC, UK**  
-_January 2023 – March 2023_
-- Refactored booking flows and modularized the legacy codebase.
-- Added biometric security and migrated UI layers to Combine framework.
+### Architecture & Engineering
+- Modular architecture and scalable application design
+- Technical leadership and engineering excellence
+- API design, integration, and backend development
+- Performance optimization and engineering productivity
+- Code quality, maintainability, and technical debt reduction
 
-### **Advanced App Engineering Specialist**  
+### Security & Enterprise Engineering
+- Enterprise-grade encryption and secure data handling
+- Certificate pinning and secure networking
+- Custom encryption frameworks
+- Secure API integration and authentication
+- Security-conscious architecture and software delivery
+
+### AI & Developer Productivity
+- AI-assisted software engineering and development workflows
+- GitHub Copilot and agentic coding workflows
+- AI-assisted code review, testing, and quality assurance
+- Multi-agent workflows for SDLC automation
+- Engineering initiatives focused on reducing security risks and improving developer productivity
+
+### Backend & Full-Stack Development
+- PHP, MySQL, JavaScript
+- REST APIs and backend integration
+- Delta synchronization and data management
+
+### Engineering Tools & Delivery
+- Xcode, Git, Bitbucket, Jenkins, SonarQube, JIRA
+- XCTest, UI Testing, TDD, performance benchmarking
+- Agile/Scrum and continuous integration
+- App Store and enterprise application deployment
+
+---
+
+## Professional Experience
+
+### VP Mobile Engineering
+**JPMorgan Chase & Co. | Glasgow, UK**  
+*January 2026 – Present*
+
+- Lead mobile engineering delivery across multiple engineering squads.
+- Provide technical leadership, coaching, and line management.
+- Drive engineering excellence, software quality, and scalable delivery practices.
+- Support initiatives involving AI-assisted engineering, developer productivity, and SDLC automation.
+
+### Senior Software Engineer / Tech Lead
+**JPMorgan Chase & Co. | UK**  
+*March 2023 – January 2026*
+
+- Led development of JPMorgan Research Mobile using modern Swift paradigms.
+- Architected a modular mobile platform with enterprise-grade encryption and secure data handling.
+- Collaborated with stakeholders and engineering teams to deliver features through Agile practices.
+- Contributed to technical direction, architecture, and engineering quality.
+
+### Senior Software Engineer
+**Skyscanner LLC | UK**  
+*January 2023 – March 2023*
+
+- Refactored booking flows and modularized legacy application components.
+- Improved application architecture and maintainability.
+- Worked on biometric security and modernized UI components using Combine.
+
+### Advanced App Engineering Specialist
 **Accenture UK**  
-_April 2019 – January 2023_
-- Engineered a secure networking facade reducing data refresh time by 90%.
-- Enabled accessibility across critical apps and promoted clean architecture.
+*April 2019 – January 2023*
 
-### **Senior iOS Developer / Special Projects Engineer**  
-**Ahmed Seddiqi & Sons LLC (Rolex Middle East)**  
-_October 2016 – April 2019_
-- Led ERP mobility transformation across sales and logistics.
-- POS app won Best Retail Industry App – ICT Middle East.
+- Engineered a secure networking facade that reduced data refresh time by 90%.
+- Promoted clean architecture and maintainable application design.
+- Improved accessibility across critical mobile applications.
 
-### **iOS Developer**  
+### Senior iOS Developer / Special Projects Engineer
+**Ahmed Seddiqi & Sons LLC | Rolex Middle East**  
+*October 2016 – April 2019*
+
+- Led mobile engineering initiatives supporting ERP mobility across sales and logistics.
+- Developed enterprise and retail mobile solutions.
+- Contributed to a POS application recognized as Best Retail Industry App at ICT Middle East.
+
+### iOS Developer
 **Eventagrate Software & Technology LLC**  
-_December 2013 – October 2016_
-- Built iBeacon-based transport app for IOTX 2015, plus Apple Watch extension.
-- Integrated real-time sensor tracking and mentored junior developers.
+*December 2013 – October 2016*
 
-### **Freelance iOS Developer**  
-_February 2010 – December 2013_
-- Delivered numerous iOS apps for clients across education, healthcare, retail, and social media.
-- Built backend APIs using PHP, MySQL, and JavaScript.
+- Developed iBeacon-based transportation applications for IOTX 2015.
+- Built Apple Watch extensions and real-time sensor tracking functionality.
+- Mentored junior developers.
 
----
+### Freelance iOS Developer
+*February 2010 – December 2013*
 
-## 🧠 Additional Technical Expertise
-
-- Backend: PHP, MySQL, JavaScript  
-- IoT: Arduino, Raspberry Pi, PcDuino3, sensors, automation  
-- AR/VR: ARKit, Wikitude, Oculus Rift, Leap Motion, Kinect  
-- **AWS Certified Cloud Practitioner**  
-- APIs: Facebook, Instagram, Twitter, Wikimedia
+- Delivered mobile applications across healthcare, education, retail, and social media.
+- Developed backend APIs and supporting services using PHP, MySQL, and JavaScript.
 
 ---
 
-## 🎓 Education & Professional Development
+## Additional Technical Experience
 
-- **MBBCh**, Tanta University – transitioned to full-time software development  
-- Stanford University:
-  - CS106a, CS106b, CS107, CS108, CS193b (iOS Development)
-  - Startup Engineering (with Distinction)
-- MITx: Software Construction in Java  
-- Duke University: Image & Video Processing (Coursera)
+- **Cloud:** AWS Certified Cloud Practitioner
+- **IoT & Hardware:** Arduino, Raspberry Pi, PcDuino3, sensors, automation
+- **AR/VR:** ARKit, Wikitude, Oculus Rift, Leap Motion, Kinect
+- **APIs:** Facebook, Instagram, Twitter, Wikimedia
 
 ---
 
-## 🎤 Conferences & Events Attended
+## Education & Professional Development
 
-- Apple WWDC (2017, 2018, 2019, 2022, 2024)  
-- App Builders Switzerland (2017)  
-- RWDevCon (2017, 2018)
+### Medical Education
+**MBBCh — Tanta University**
+
+Medical graduate who transitioned into software engineering, combining analytical problem-solving and technical expertise with a background in medicine.
+
+### Stanford University
+- CS106a — Programming Methodology
+- CS106b — Programming Abstractions
+- CS107 — Programming Paradigms
+- CS108 — Introduction to Computer Networking
+- CS193b — iOS Development
+- Startup Engineering — Distinction
+
+### Additional Courses
+- MITx — Software Construction in Java
+- Duke University — Image & Video Processing
 
 ---
+
+## Apple Developer Community & Conferences
+
+### Apple Worldwide Developers Conference
+Attended WWDC in **2017, 2018, 2019, 2022, and 2024**.
+
+### Other Conferences
+- App Builders Switzerland — 2017
+- RWDevCon — 2017, 2018
+
+---
+
+## Areas of Interest
+
+- iOS platform evolution and Apple technologies
+- Swift and modern mobile architecture
+- AI-assisted software engineering
+- Agentic workflows and SDLC automation
+- Developer productivity and engineering excellence
+- Enterprise security and scalable software systems
+- Engineering leadership and team development
